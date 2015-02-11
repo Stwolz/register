@@ -1,0 +1,152 @@
+body,h1,h2,h3,quote,small,form,input,ul,li,ol,label{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+
+	color:#555555;
+	font-size:13px;
+	background: #eeeeee;
+	font-family:Arial, Helvetica, sans-serif;
+	width: 100%;
+   
+   background: url(background.jpg); 
+  background-repeat:no-repeat;
+}
+img.positionPhoto
+{
+margin-top:0px;
+width:100px;
+height: 100px;
+border-radius:100px;
+margin-left:20px;
+}
+
+div.uploadBtn
+{
+margin-top:20px;
+margin-left:20px;
+border-radius:21px;
+}
+
+div.leftSide
+{
+width:670px;
+height:300px;
+border-radius:50px;
+box-shadow:5px 5px 30px #000000;
+margin-left:-5px;
+margin-top:-3px;
+outline:50px;
+border:3px solid #CCD8F2;
+}
+div.leftSide h1{
+margin-left:230px;
+color:#FFFF66;
+}
+
+div.rightSide{
+width:645px;
+height:300px;
+border-radius:50px;
+box-shadow:5px 5px 30px #000000;
+margin-left:-647px;
+margin-top:20px;
+outline:50px;
+border:3px solid #CCD8F2;
+}
+div.rightSide h1
+{
+color:#FFFF66;
+
+}
+div.mainTitle
+{
+width:0px;
+height:600px;
+border-radius:50px;
+box-shadow:5px 5px 30px #000000;
+margin-left:650px;
+margin-top:-30px;
+outline:50px;
+border:3px solid #CCD8F2;
+}
+
+
+p.footer{
+margin-left:500px;
+}
+
+
+
+
+h1{
+margin-left:35px;
+	font-size:30px;
+	font-weight:bold;
+	font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
+	letter-spacing:0px;
+	
+}
+
+h2{
+	font-family:"Arial Narrow",Arial,Helvetica,sans-serif;
+	font-size:10px;
+	font-weight:normal;
+	letter-spacing:1px;
+	padding-left:2px;
+	text-transform:uppercase;
+	white-space:nowrap;
+	margin-top:4px;
+	color:#888888;
+}
+
+#main p{
+    padding-bottom:8px;
+}
+
+
+.clear{
+	clear:both;
+}
+
+#main{
+	width:800px;
+	/* Centering it in the middle of the page */
+	margin:60px auto;
+}
+
+.container{
+	margin-top:20px;
+	
+	background:#FFFFFF;
+	border:1px solid #E0E0E0;
+	padding:15px;
+	
+	/* Rounded corners */
+	-moz-border-radius:20px;
+	-khtml-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius:20px;
+}
+
+.err{
+	color:red;
+}
+
+.success{
+	color:#00CC00;
+}
+
+a, a:visited {
+	color:#00BBFF;
+	text-decoration:none;
+	outline:none;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+
